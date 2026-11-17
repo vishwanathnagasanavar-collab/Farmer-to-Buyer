@@ -1,0 +1,6 @@
+{
+  "name": "KisanDirect",
+  "description": "From Farm to Market, Without Middlemen. A direct farmer-to-buyer agricultural marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
